@@ -1,14 +1,9 @@
-# Spootify Coding Challenge 🎧
+# React Coding Challenge: Spootify 🎧
 
-### Difficulty: Hard | Time required: ~ 30-45 minutes
-
-# Goals/Outcomes ✨
-- To test knowledge of consuming APIs and handling responses
-- Loading state and knowing where and how to make multiple API calls efficiently
+### Time required: ~ 1 Hour
 
 # Pre-requisites ✅
 - Add your Spotify client ID & secret to `config.js`
-  - Note. **Never add this type of config to version control. This would usually come from your build server.**
 
 # Requirements 📖
 - Fetch and display *Released This Week* songs
