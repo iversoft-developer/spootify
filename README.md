@@ -13,12 +13,16 @@
 - Fetch and display *Browse* genres
   - Use the API path `categories`
 - Loading state/UI *(optional, current UX is already clean)*
+- An explanation of the major decisions made
+- Any tricks you used to help achieve your goal
+- Future ToDos and things you would want to add if you had time
 
 # Think about 💡
 - Taking a look at the Spotify API documentation
 - Do you resolve each API request one after the other or in parallel?
 - Where do you make the API requests?
 - How much logic do you offload out of the UI components?
+- To use state management or nah?
 
 # What's Already Been Done 🏁
 - UI/UX for all elements, including previews (mobile responsive)
