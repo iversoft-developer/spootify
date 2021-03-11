@@ -16,6 +16,7 @@
 - An explanation of the major decisions made
 - Any tricks you used to help achieve your goal
 - Future ToDos and things you would want to add if you had time
+- The application hosted on your GitHub pages
 
 # Think about 💡
 - Taking a look at the Spotify API documentation
