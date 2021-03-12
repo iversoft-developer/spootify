@@ -17,6 +17,7 @@
 - Any tricks you used to help achieve your goal
 - Future ToDos and things you would want to add if you had time
 - The application hosted on your GitHub pages
+- Invite jacob@iversoft.ca to the private repository for a code review
 
 # Think about 💡
 - Taking a look at the Spotify API documentation
