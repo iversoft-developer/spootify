@@ -5,6 +5,12 @@
 # Pre-requisites ✅
 - Add your Spotify client ID & secret to `config.js`
 
+# Instructions 
+- Manually download a copy of the files, use it to create a new repo on GitHub.
+- Make sure your repo on GitHub is 'private'.
+- Create a spotify account and retrieve  your client ID as seen here https://developer.spotify.com/documentation/general/guides/app-settings/. You may use your GitHub pages URL as your website URL when requested.
+- Feel free to use any package or technique that would help you deliver the best solution and in record time. 
+
 # Requirements 📖
 - Fetch and display *Released This Week* songs
   - Use the API path `new-releases`
